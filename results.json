@@ -21,12 +21,12 @@
   },
   "test_generate": {
     "english_1_gram": "ID.lIntudyE pe .oeytt",
-    "english_2_gram": "<start>I amell1Gige omyo & he't",
-    "english_3_gram": "<start><start>I amebompirs ans appree ",
-    "english_4_gram": "<start><start><start>I Lover. Zo Are froming #M",
-    "spanish_2_gram": "<start>Soy ' Dusos qups  en ce",
-    "spanish_3_gram": "<start><start>Soy ensanta oto el 200 ",
-    "french_2_gram": "<start>Je suis jeitpu s a male s:/",
-    "french_3_gram": "<start><start>Je suistreil Her lon in vs "
+    "english_2_gram": "I amell1Gige omyo & he't",
+    "english_3_gram": "I amebompirs ans appree ",
+    "english_4_gram": "I Lover. Zo Are froming #M",
+    "spanish_2_gram": "Soy ' Dusos qups  en ce",
+    "spanish_3_gram": "Soy ensanta oto el 200 ",
+    "french_2_gram": "Je suis jeitpu s a male s:/",
+    "french_3_gram": "Je suistreil Her lon in vs "
   }
 }
