@@ -9,9 +9,24 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 0.0,
-    "en_fr": 0.0,
-    "en_tl": 0.0,
-    "en_nl": 0.0
+    "en_en": 26.738604803407597,
+    "en_fr": 57.34724237140233,
+    "en_tl": 70.33127201857073,
+    "en_nl": 61.22366833781336
+  },
+  "test_match": {
+    "en_en_3": 8.895281101335167,
+    "en_tl_3": 11.763991076984816,
+    "en_nl_3": 10.361492274450958
+  },
+  "test_generate": {
+    "english_1_gram": "ID.lIntudyE pe .oeytt",
+    "english_2_gram": "<start>I amell1Gige omyo & he't",
+    "english_3_gram": "<start><start>I amebompirs ans appree ",
+    "english_4_gram": "<start><start><start>I Lover. Zo Are froming #M",
+    "spanish_2_gram": "<start>Soy ' Dusos qups  en ce",
+    "spanish_3_gram": "<start><start>Soy ensanta oto el 200 ",
+    "french_2_gram": "<start>Je suis jeitpu s a male s:/",
+    "french_3_gram": "<start><start>Je suistreil Her lon in vs "
   }
 }
